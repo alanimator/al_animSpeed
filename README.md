@@ -1,3 +1,5 @@
-install
+**INSTALL**
+```
 import animSpeed
 animSpeed.startUI()
+```
